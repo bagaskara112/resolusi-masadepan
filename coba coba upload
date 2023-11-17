@@ -1,0 +1,7 @@
+#include <iostream>
+      using namesapce std;
+
+      int main (){
+      cout<<"BAGAS"<<endl;
+       return 0;
+      }
